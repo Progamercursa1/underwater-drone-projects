@@ -4,7 +4,7 @@ Notes and manual observations from freshwater sources in Ukraine.
 
 ---
 
-📝 Format example:
+ Format example:
 
 - **Date**: 2025-08-01 
 - **Location**: Dnipro River, Kyiv  
