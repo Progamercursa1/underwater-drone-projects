@@ -7,7 +7,7 @@
 
 ---
 
-## 📡 Simulated data collected
+##  Simulated data collected
 
 | Time (s) | Depth (m) | Water Temp (°C) | Turbidity (%) |
 |----------|-----------|------------------|----------------|
@@ -19,7 +19,7 @@
 
 ---
 
-## 🔍 Notes
+##  Notes
 
 - This mission simulates basic environmental sensing for future underwater drone testing.
 - Values were generated manually to simulate realistic patterns.
