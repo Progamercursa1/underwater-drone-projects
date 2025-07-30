@@ -1,4 +1,4 @@
-# Mission 01 – Simulated Lake Study 🛰️
+# Mission 01 – Simulated Lake Study 
 
 **Date:** 2025-07-30  
 **Location:** Simulated Lake Alpha  
