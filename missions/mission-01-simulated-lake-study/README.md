@@ -24,3 +24,5 @@
 - This mission simulates basic environmental sensing for future underwater drone testing.
 - Values were generated manually to simulate realistic patterns.
 - Future missions will use real Arduino data from water sensors.
+
+This script simulates a basic underwater drone mission by displaying step-by-step sensor data such as depth, temperature, and turbidity over time. It visualizes how conditions change as the drone descends in a simulated lake using real-time plotted graphs.
