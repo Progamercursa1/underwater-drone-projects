@@ -28,7 +28,7 @@ int main() {
         std::cout << "Temp: " << data.temperature << "^C\t";
         std::cout << "Turbidity: " << data.turbidity << "%\n";
 
-        std::this_thread::sleep_for(std::chrono::seconds(1));
+        std::this_thread::sleep_for(std::chrono::seconds(10));
     }
 
     std::cout << "\nSimulation complete.\n";
